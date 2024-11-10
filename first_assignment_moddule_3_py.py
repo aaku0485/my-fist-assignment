@@ -63,8 +63,7 @@ b = "aakash"
 b[0] = p
 b
 
-# Commented out IPython magic to ensure Python compatibility.
-from collections.abc import ValuesView
+
 '''
 4. Discuss different types of operators in python and provide examples of their usage ?
 
